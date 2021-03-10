@@ -1,0 +1,81 @@
+html{
+    background-color: violet;
+}
+
+body{
+    padding: 20px;
+}
+header{
+    background-color: rgb(240, 193, 240);
+    border: 1px solid rgb(221, 44, 221);
+    padding: 10px;
+}  
+.defini {
+   width: 100%;
+}
+
+.container {
+    display: flex;
+    margin: 2em;
+    width: 100%;
+}
+
+
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.medio {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 2px;
+}
+
+}
+
+    .imagen1 img {
+        height: auto;
+        width:auto; 
+        max-height: 400px;
+        border-top-left-radius: 100px;
+    }
+    
+    .imagen2 img {    
+        height: auto;
+        width:auto;
+        max-height: 400px;
+    }
+    .imagen3 img {
+        height: auto;
+        width: auto;
+        max-height: 400px;
+    }
+.container{
+    margin: 20px 40px; 
+}
+
+
+
+    
+}
+ 
+ div container{
+     padding: 20px;
+      width: auto;
+      height: auto;
+
+ }
+
+ }
